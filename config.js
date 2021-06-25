@@ -1,4 +1,4 @@
-global.owner = ['4917243333338'] // Put your number here
+global.owner = ['50371777771'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Susi\n❏ 𝐿𝑎 𝑓𝑒𝑙𝑖𝑐𝑖𝑑𝑎𝑑 𝑛𝑜 𝑒𝑠 𝑒𝑙 𝑜𝑏𝑗𝑒𝑡𝑖𝑣𝑜...\n❏ 𝐄𝐬 𝐞𝐥 𝐜𝐚𝐦𝐢𝐧𝐨\n⚠️苏珊娜⚠️ '
-global.author = '➬🌤️SusiBot🌤️\n↳  🔥+503 6161 1111🥀\n↳  🌺Susi.li_🌺'
+global.author = '➬🌤️SusiBot🌤️\n↳  🔥+503 7177 7771🥀\n↳  🌺Susi.li_🌺'
 
 global.multiplier = 69 // The higher, The harder levelup
 
