@@ -5,7 +5,7 @@ let handler = async m => m.reply(`
 
 Si quieres hablar con la dueña personalmente:
 
-https://wa.me/50373619339
+https://wa.me/50377792043
 
 "No es mas fuerte el que no cae si no el que se levanta"
                                         
